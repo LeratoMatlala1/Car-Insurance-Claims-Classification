@@ -72,7 +72,8 @@ Some of the Key Insights from the above visuals are:
 Multiple machine learning models were evaluated to predict insurance claims based on customer data. The models considered include K-Nearest Neighbors (KNN), Decision Trees, and Random Forests. For each of these models, both their original configurations and tuned hyperparameter settings were assessed to determine their predictive performance. Additionally, Principal Component Analysis (PCA) was applied to the data, allowing for an evaluation of the models' performance when using reduced-dimensional representations of the features. This  evaluation process aimed to identify the most effective model for accurately classifying customers into claim or no-claim categories while considering various modeling approaches and data transformations.
 
 Below is the results of the accuracies of all the models:
-<img width="890" alt="image" src="https://github.com/LeratoMatlala1/Car-Insurance-Claims-Classification/assets/138568742/1759a9a2-9e2e-402c-85bc-8eb982907e08">
+<img width="730" alt="image" src="https://github.com/LeratoMatlala1/Car-Insurance-Claims-Classification/assets/138568742/7c6a36d8-6ee3-49fb-9158-79fe574afc16">
+
 
 The primary objective for the insurance company is to correctly identify clients who are likely to make claims (class 1) while avoiding unnecessary payments to clients who do not make claims (class 0). This is where precision plays a crucial role.
 
